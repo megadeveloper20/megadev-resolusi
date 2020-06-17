@@ -2,9 +2,11 @@ RENCANA KONTEN MEGADEV
 - Django
   * Instalasi
   * Coding
-    > Laporan
+    > Dokumentasi
     > Foto
+- Bigdata
 - Sqlite
   * Tabel
 - Hosting
 - Vlogs
+- Python
