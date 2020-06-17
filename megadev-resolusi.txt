@@ -1,6 +1,6 @@
 MEGADEV RESOLUSI
 - Menyelesaikan 2 proyek yang sudah deal
 - Menambah proyek
-- Menyelesaikan Skripsi
 - Menyelesaikan wisuda
 - Menambah jam terbang dalam proyek
+- Membuat website
