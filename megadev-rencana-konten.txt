@@ -2,7 +2,11 @@ RENCANA KONTEN MEGADEV
 - Django
   * Instalasi
   * Coding
+    > Dokumentasi
+    > Foto
 - Bigdata
 - Sqlite
+  * Tabel
 - Hosting
 - Vlogs
+- Python
