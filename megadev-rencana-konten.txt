@@ -1,0 +1,7 @@
+RENCANA KONTEN MEGADEV
+- Django
+  * Instalasi
+  * Coding
+- Sqlite
+- Hosting
+- Vlogs
