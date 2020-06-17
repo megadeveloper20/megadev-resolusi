@@ -3,6 +3,7 @@ RENCANA KONTEN MEGADEV
   * Instalasi
   * Coding
     > Dokumentasi
+    > Foto
 - Bigdata
 - Sqlite
   * Tabel
